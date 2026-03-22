@@ -1,5 +1,7 @@
 # Data and Code: The Geometry of Retention
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19166153.svg)](https://doi.org/10.5281/zenodo.19166153)
+
 This repository contains the simulation code and output data associated with:
 
 > Taylor, K.W., Viliani, L., & Nielsen, S.E. (*in review*). The geometry of retention: paradoxical consequences of aggregated retention forestry.
